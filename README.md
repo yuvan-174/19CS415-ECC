@@ -1,4 +1,4 @@
-# 19CS415-ECC
+# EX-11-ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 ## AIM:
 To implement the Elliptic Curve Cryptography (ECC) key exchange algorithm and securely derive a shared secret key.
 
